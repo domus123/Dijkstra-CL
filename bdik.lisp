@@ -3,6 +3,7 @@
 ;;Contact lu.guerra7508@gmail.com
 ;;Solve ANY graph in the same model of *nodes*
 ;;Cheers lispers
+;;Backup
 
 
 (defparameter *nodes* '((A (A B . 85) (A E . 173) (A C . 217))
