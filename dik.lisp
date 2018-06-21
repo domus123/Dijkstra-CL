@@ -51,4 +51,4 @@
   (loop for x in '(A B C D E F G H I)
      do(progn (format t "~&-----------------------------~A-----------------------------------------~&" x)
 	      (loop for y in '(A B C D E F C H I)
-		 do (sp x y))) ))
+		 do (cp x y))) ))
